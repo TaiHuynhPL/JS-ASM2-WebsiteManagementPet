@@ -2,7 +2,7 @@
 
 - The reason for creating the project: The application helps to manage pet information such as weight, breed, vaccination status,...
 
-- Describe: The application includes add/edit/delete functions. Pages with the following functions: HomePage, Edit Pet, Search Pet, Breed Management, Import / Export Data.
+- Describe: The application includes add/edit/delete functions. The Website includes the following pages: HomePage, Edit Pet, Search Pet, Breed Management, Import / Export Data.
 
 - Technology in use: HTML, CSS, Javascript
 
