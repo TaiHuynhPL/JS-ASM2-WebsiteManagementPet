@@ -8,3 +8,5 @@
 
 - Link demo web:
 https://taihuynhpl.github.io/JS-ASM2-WebsiteManagementPet/index.html
+
+- Instructions to run the program on local: open file index.html
